@@ -24,14 +24,14 @@
 ** \author Andrey Antipov (Andrey.E.Antipov@gmail.com)
 */
 
-#include "LatticePresets.hpp"
-#include "Index.hpp"
-#include "IndexClassification.hpp"
-#include "Operators.hpp"
-#include "StatesClassification.hpp"
-#include "HamiltonianPart.hpp"
-#include "Hamiltonian.hpp"
-#include "MonomialOperator.hpp"
+#include <pomerol/LatticePresets.hpp>
+#include <pomerol/Index.hpp>
+#include <pomerol/IndexClassification.hpp>
+#include <pomerol/Operators.hpp>
+#include <pomerol/StatesClassification.hpp>
+#include <pomerol/HamiltonianPart.hpp>
+#include <pomerol/Hamiltonian.hpp>
+#include <pomerol/MonomialOperator.hpp>
 
 #include "catch2/catch-pomerol.hpp"
 

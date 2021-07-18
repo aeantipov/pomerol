@@ -18,16 +18,16 @@
 // You should have received a copy of the GNU General Public License
 // along with pomerol.  If not, see <http://www.gnu.org/licenses/>.
 
-#include "Misc.hpp"
-#include "LatticePresets.hpp"
-#include "IndexClassification.hpp"
-#include "HilbertSpace.hpp"
-#include "StatesClassification.hpp"
-#include "Hamiltonian.hpp"
-#include "DensityMatrix.hpp"
-#include "MonomialOperator.hpp"
-#include "EnsembleAverage.hpp"
-#include "Susceptibility.hpp"
+#include <pomerol/Misc.hpp>
+#include <pomerol/LatticePresets.hpp>
+#include <pomerol/IndexClassification.hpp>
+#include <pomerol/HilbertSpace.hpp>
+#include <pomerol/StatesClassification.hpp>
+#include <pomerol/Hamiltonian.hpp>
+#include <pomerol/DensityMatrix.hpp>
+#include <pomerol/MonomialOperator.hpp>
+#include <pomerol/EnsembleAverage.hpp>
+#include <pomerol/Susceptibility.hpp>
 
 #include "catch2/catch-pomerol.hpp"
 

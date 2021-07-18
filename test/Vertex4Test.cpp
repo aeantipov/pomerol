@@ -24,17 +24,17 @@
 ** \author Igor Krivenko (igor@shg.ru)
 */
 
-#include "Misc.hpp"
-#include "LatticePresets.hpp"
-#include "IndexClassification.hpp"
-#include "HilbertSpace.hpp"
-#include "StatesClassification.hpp"
-#include "Hamiltonian.hpp"
-#include "DensityMatrix.hpp"
-#include "FieldOperatorContainer.hpp"
-#include "GFContainer.hpp"
-#include "TwoParticleGFContainer.hpp"
-#include "Vertex4.hpp"
+#include <pomerol/Misc.hpp>
+#include <pomerol/LatticePresets.hpp>
+#include <pomerol/IndexClassification.hpp>
+#include <pomerol/HilbertSpace.hpp>
+#include <pomerol/StatesClassification.hpp>
+#include <pomerol/Hamiltonian.hpp>
+#include <pomerol/DensityMatrix.hpp>
+#include <pomerol/FieldOperatorContainer.hpp>
+#include <pomerol/GFContainer.hpp>
+#include <pomerol/TwoParticleGFContainer.hpp>
+#include <pomerol/Vertex4.hpp>
 
 #include "catch2/catch-pomerol.hpp"
 
